@@ -1,14 +1,14 @@
 # Treino CS
 ## Map: aim_treeini
 ### 01 - Warmup / Frenzy
-Goal: 400 kills
+Goal: 200 kills
 
 Size: 10
 Targets: 3
 Middle of Map
 
 ### 02 - Precision and Microadjustments
-Goal: 250 kills
+Goal: 100 kills
 
 Size: 1
 Target: 1
@@ -23,7 +23,7 @@ Targets: 5
 Moving: Horizontal
 
 ### Flicking
-Goal: 200
+Goal: 100
 
 Level: 1
 Mode: Cross
@@ -35,7 +35,7 @@ Spawn Orientation:
 - Random
 
 ### Bursts
-Goal: 300
+Goal: 200
 Level: 2
 Targets: 8
 Size: 8
